@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>Emergency</title>
+<title>Admin message</title>
 </head>
 <body>
 <form>
-<h3 align ="center"><b>Leave your message</b></h3>
+<h3 align ="center"><b>Leave your message for admin</b></h3>
 <fieldset>
 <table align = "center">
 <tr>
