@@ -3,9 +3,8 @@
     <title>Train master home</title>    
     </head>
     <body>
-        <fieldset>
-            <h1>Welcome, Train Master</h1>
-            
+	<h1 align = "center">Welcome, Train Master</h1>
+        <fieldset>            
             
             <table  align="left">
                 <tr>
@@ -94,6 +93,13 @@
                 </tr>
 
             </table>
+			<table align="right">
+			<tr>
+                            <td>
+                                <img height = "500px" width = "800px" src="homeimg.jpg">
+                            </td>
+                        </tr> 
+			</table>
         </fieldset>    
     </body>
 </html>
