@@ -14,7 +14,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 			$emergency = $_POST["emergency"];
 		}
 	if(!$hasError){
-			echo "<h1>Form submitted</h1>";
+			echo "<h1>Message sent</h1>";
 			echo $_POST["emergency"];
 	}
 }

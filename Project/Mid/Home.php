@@ -64,7 +64,7 @@
                         &nbsp;
                     </td>
                     <td align="right">
-                        <a href="Next Stoppage.php">  
+                        <a href="Next  Stoppage.php">  
                         <input type="submit" value="Next Stoppage"> 
                         </a>
                     </td>
@@ -77,6 +77,17 @@
                     <td align="right">
                         <a href="Emergency.php">  
                         <input type="submit" value="Emergency">  
+                        </a>
+                    </td>
+                </tr>
+				
+				<tr>
+                    <td>
+                        &nbsp;
+                    </td>
+                    <td align="right">
+                        <a href="Search.php">  
+                        <input type="submit" value="Search User">  
                         </a>
                     </td>
                 </tr>

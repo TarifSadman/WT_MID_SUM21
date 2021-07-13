@@ -121,7 +121,7 @@
 	<title>ADD_Trainmaster</title>
 	</head>
     <body>
-		<h1 align="center">Add Station Master</h1>
+		<h1 align="center">ADD Train Master</h1>
         <fieldset>
 		<center>
 			<form action="" method="post">
